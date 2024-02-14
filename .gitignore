@@ -1,0 +1,10 @@
+.env
+.env.example
+.env.local
+.env.staging
+*wallet.json
+node_modules
+package-lock.json
+yarn.lock
+\test-ledger
+/node_modules
